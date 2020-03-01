@@ -8,10 +8,10 @@ Después del movimiento de un jugador, si hay una fila, columna o diagonal que c
 
 Dada una descripción de tablero de 4 x 4 que contiene 'X', 'O', 'T' y '.' los caracteres (donde '.' representa un cuadrado vacío), que describen el estado actual de un juego, determinan el estado del juego Tic-Tac-Toe-Tomek que se está llevando a cabo. Los estados para elegir son:
 
-"X won" (el juego terminó y X ganó)
-"O won" (el juego terminó y O ganó)
-"Draw" (el juego terminó y terminó en empate)
-"Game has not completed" (el juego aún no ha terminado)
+* "X won" (el juego terminó y X ganó)
+* "O won" (el juego terminó y O ganó)
+* "Draw" (el juego terminó y terminó en empate)
+* "Game has not completed" (el juego aún no ha terminado)
 Si hay celdas vacías y el juego no ha terminado, debe mostrar "Game has not completed", incluso si el resultado del juego es inevitable.
 
 ## Entrada
@@ -26,10 +26,10 @@ Para cada caso de prueba, envíe una línea que contenga "Caso #x: y", donde x e
 
 El tablero de juego proporcionado representará un estado válido que se alcanzó a través del juego Tic-Tac-Toe-Tomek como se describió anteriormente.
 
-## Pequeño conjunto de datos
+### Pequeño conjunto de datos
 1 ≤ T ≤ 10.
 
-## Gran conjunto de datos
+### Gran conjunto de datos
 1 ≤ T ≤ 1000.
 
 ## Muestra
