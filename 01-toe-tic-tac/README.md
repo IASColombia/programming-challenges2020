@@ -20,7 +20,7 @@ La primera línea de la entrada da el número de casos de prueba, los casos de p
 
 ## Salida
 
-Para cada caso de prueba, envíe una línea que contenga "Caso #x: y", donde x es el número de caso (a partir de 1) ey es uno de los estados indicados anteriormente. Asegúrese de obtener los estados exactamente correctos. Cuando ejecuta su código en la entrada de muestra, debe crear la salida de muestra exactamente, incluido el "Caso # 1:", la letra mayúscula "O" en lugar del número "0", y así sucesivamente.
+Para cada caso de prueba, envíe una línea que contenga **"Case #x: y"**, donde x es el número de caso (a partir de 1) ey es uno de los estados indicados anteriormente. Asegúrese de obtener los estados exactamente correctos. Cuando ejecuta su código en la entrada de muestra, debe crear la salida de muestra exactamente, incluido el "Caso # 1:", la letra mayúscula "O" en lugar del número "0", y así sucesivamente.
 
 ## Límites
 
