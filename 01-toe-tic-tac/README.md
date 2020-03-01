@@ -2,7 +2,7 @@
 
 ## Problema
 
-Tic-Tac-Toe-Tomek es un juego jugado en un tablero cuadrado de 4 x 4. El tablero comienza vacío, excepto que puede aparecer un solo símbolo 'T' en uno de los 16 cuadrados. Hay dos jugadores: X y O. Se turnan para hacer movimientos, con X comenzando. En cada movimiento, un jugador coloca su símbolo en una de las casillas vacías. El símbolo del jugador X es 'X', y el símbolo del jugador O es 'O'.
+Toe-Tic-Tac-Tomek es un juego jugado en un tablero cuadrado de 4 x 4. El tablero comienza vacío, excepto que puede aparecer un solo símbolo 'T' en uno de los 16 cuadrados. Hay dos jugadores: X y O. Se turnan para hacer movimientos, con X comenzando. En cada movimiento, un jugador coloca su símbolo en una de las casillas vacías. El símbolo del jugador X es 'X', y el símbolo del jugador O es 'O'.
 
 Después del movimiento de un jugador, si hay una fila, columna o diagonal que contiene 4 de los símbolos de ese jugador, o que contiene 3 de sus símbolos y el símbolo 'T', ella gana y el juego termina. De lo contrario, el juego continúa con el movimiento del otro jugador. Si todos los campos están llenos de símbolos y nadie ganó, el juego termina en empate. Vea la entrada de muestra para ejemplos de varias posiciones ganadoras.
 
