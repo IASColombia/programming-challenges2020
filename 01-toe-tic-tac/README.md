@@ -1,6 +1,6 @@
 # Toe Tic Tac
 
-## Problema
+## Problema
 
 Tic-Tac-Toe-Tomek es un juego jugado en un tablero cuadrado de 4 x 4. El tablero comienza vacío, excepto que puede aparecer un solo símbolo 'T' en uno de los 16 cuadrados. Hay dos jugadores: X y O. Se turnan para hacer movimientos, con X comenzando. En cada movimiento, un jugador coloca su símbolo en una de las casillas vacías. El símbolo del jugador X es 'X', y el símbolo del jugador O es 'O'.
 
