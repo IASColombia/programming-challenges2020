@@ -7,7 +7,7 @@ Recientemente se interesó también en los cuadrados y formó la definición de 
 
 Ahora quiere buscar números justos y cuadrados más grandes. Su tarea es, dado un intervalo que el pequeño John está buscando, decirle cuántos números justos y cuadrados hay en el intervalo, para que sepa cuándo los ha encontrado todos.
 
-## Resolviendo este problema
+## Resolviendo este problema
 
 Por lo general, los problemas de Google Code Jam tienen 1 entrada pequeña y 1 entrada grande. Este problema tiene 1 entrada pequeña y 2 entradas grandes. Una vez que haya resuelto la entrada Pequeña, podrá descargar cualquiera de las dos entradas Grandes. Como de costumbre, podrá volver a intentar la entrada Pequeña (con una penalización de tiempo), mientras que solo tendrá una oportunidad en cada una de las entradas Grandes.
 
