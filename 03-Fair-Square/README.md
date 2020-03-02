@@ -25,7 +25,7 @@ Para cada caso de prueba, envíe una línea que contenga "Case #x: y", donde "x"
 1 ≤ T ≤ 100.
 1 ≤ A ≤ B ≤ 1000.
 
-### Primer conjunto de datos grande
+### Primer conjunto de datos grande
 1 ≤ T ≤ 10000.
 1 ≤ A ≤ B ≤ 1014.
 
