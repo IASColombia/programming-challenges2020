@@ -1,10 +1,9 @@
-# Train Timetable
-
+# Horario de tren
 # Problema
 
 Una línea de tren tiene dos estaciones, **A** y **B**. Los trenes pueden tomar viajes de **A** a **B** o de **B** a **A** varias veces durante un día. Cuando un tren llega a **B** desde **A** (o llega a **A** desde **B**), necesita una cierta cantidad de tiempo antes de estar listo para tomar el viaje de regreso; este es el tiempo de respuesta. Por ejemplo, si un tren llega a las 12:00 y el tiempo de respuesta es de 0 minutos, puede partir inmediatamente a las 12:00.
 
-Un horario de trenes especifica la hora de salida y llegada de todos los viajes entre **A** y **B**. La compañía de trenes necesita saber cuántos trenes tienen que comenzar el día en **A** y **B** para que el horario funcione: siempre que un tren salga de **A** o **B**, debe haber uno allí listo para funcionar. Hay secciones de paso en la vía, por lo que los trenes no necesariamente llegan en el mismo orden en que salen. Los trenes no pueden viajar en viajes que no aparecen en el horario.
+Un horario de trenes especifica la hora de salida y llegada de todos los viajes entre **A** y **B**. La compañía de trenes necesita saber cuántos trenes tienen que comenzar el día en **A** y **B** para que el horario funcione: siempre que un tren salga de **A** o **B**, debe haber uno allí listo para funcionar. Hay secciones de paso en la vía, por lo que los trenes no necesariamente llegan en el mismo orden en que salen. Los trenes no pueden viajar en trayectos que no aparecen en el horario.
 
 ## Entrada
 
