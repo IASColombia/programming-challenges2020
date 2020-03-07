@@ -9,7 +9,8 @@ Ahora quiere buscar números justos y cuadrados más grandes. Su tarea es, dado 
 
 ## Entrada
 
-La primera línea de la entrada da el número de casos de prueba, las líneas **T**. **T** siguen. Cada línea contiene dos enteros, **A** y **B**, los puntos finales del intervalo que el pequeño John está mirando.
+La primera línea de la entrada da el número de casos de prueba, las líneas **T**. 
+**T** lineas siguen. Cada línea contiene dos enteros, **A** y **B**, los puntos finales del intervalo que el pequeño John está mirando.
 
 ## Salida
 
