@@ -32,12 +32,12 @@ donde **X** es el número del caso de prueba y **Y** es "WHITE", "BLACK" o "UNKN
 * 0 < N ≤ 1000
 * W + B > 0
 
-## Conjunto pequeño de datos
+## Conjunto grande de datos
 
 * 0 ≤ W ≤ 1000
 * 0 ≤ B ≤ 1000
 
-## Conjunto grande de datos
+## Conjunto pequeño de datos
 
 * 0 ≤ W ≤ 109
 * 0 ≤ B ≤ 109
