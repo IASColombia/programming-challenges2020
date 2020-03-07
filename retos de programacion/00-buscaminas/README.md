@@ -20,7 +20,7 @@ Los recuadros seguros están representados por "." y los recuadros con minas por
 
 ## Salida 
 
-Para cada campo, escribir el mensaje "Case #x:" en una línea, donde x corresponde al número del campo, empezando a contar desde 1. Las siguientes **n** líneas deben contener el campo con los caracteres “.” sustituidos por el nu ́mero de minas adyacentes a ese recuadro. Debe haber una l ́ınea en blanco entre los distintos campos mostrados. 
+Para cada campo, escribir el mensaje "Case #x:" en una línea, donde x corresponde al número del campo, empezando a contar desde 1. Las siguientes **n** líneas deben contener el campo con los caracteres “.” sustituidos por el número de minas adyacentes a ese recuadro. Debe haber una l ́ınea en blanco entre los distintos campos mostrados. 
 
 ## Muestra
 ```
