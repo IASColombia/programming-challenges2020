@@ -49,6 +49,7 @@ Entrada
 
 2
 3 1
+3 6
 
 
 Salida
